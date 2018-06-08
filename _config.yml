@@ -26,8 +26,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Pushed work # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Find any food turck in Milwaukee! # Optional
+marketing_desc:  Find food trucks on the streets of Milwaukee by time and location. Results are updated in real-time throughout the day.
 
 #
 # Social Links
@@ -65,7 +65,7 @@ device: iphone-se-silver-vertical # REQUIRED
 # Theme Settings
 #
 background_color: "#989898" # Optional
-background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_image: images/backgrounds/FoodTruckBack.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
